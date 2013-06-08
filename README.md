@@ -1,2 +1,2 @@
-moranguito.win32
+Moranguito v0.1
 ================
