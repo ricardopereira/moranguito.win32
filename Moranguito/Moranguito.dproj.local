@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013-02-16 18:14:03.787.pas,C:\Development\Projects\Developer\Moranguito\Unit1.pas=C:\Development\Projects\Developer\Moranguito\Moranguito.MainForm.pas</Transaction>
+    <Transaction>2013-02-16 18:14:03.797.dfm,C:\Development\Projects\Developer\Moranguito\Unit1.dfm=C:\Development\Projects\Developer\Moranguito\Moranguito.MainForm.dfm</Transaction>
+    <Transaction>2013-02-16 18:59:33.251.pas,C:\Development\Projects\Developer\Entitys\WEstruct.pas=</Transaction>
+    <Transaction>2013-02-16 19:36:01.305.pas,C:\Development\Projects\Developer\Moranguito\Unit1.pas=C:\Development\Projects\Developer\Moranguito\Moranguito.FormGUI.pas</Transaction>
+    <Transaction>2013-02-16 19:40:10.342.pas,C:\Development\Projects\Developer\Moranguito\Unit1.pas=C:\Development\Projects\Developer\Moranguito\Moranguito.TiposAlimentoForm.pas</Transaction>
+    <Transaction>2013-02-16 19:40:10.342.dfm,C:\Development\Projects\Developer\Moranguito\Unit1.dfm=C:\Development\Projects\Developer\Moranguito\Moranguito.TiposAlimentoForm.dfm</Transaction>
+    <Transaction>2013-02-17 03:26:57.170.pas,C:\Development\Projects\Developer\Moranguito\Moranguito.EmentasForm.pas=</Transaction>
+    <Transaction>2013-02-17 03:26:57.180.dfm,C:\Development\Projects\Developer\Moranguito\Moranguito.EmentasForm.dfm=</Transaction>
+    <Transaction>2013-02-18 11:44:12.919.pas,C:\Development\Projects\Developer\Moranguito\Unit1.pas=C:\Development\Projects\Developer\Moranguito\Moranguito.IntroducaoAlimentos.pas</Transaction>
+  </Transactions>
+</BorlandProject>
