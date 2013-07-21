@@ -1,2 +1,5 @@
-Moranguito v0.1
+Morangos v1.1
 ================
+
+Codename: Moranguito
+Description: Gestão de Ementas
